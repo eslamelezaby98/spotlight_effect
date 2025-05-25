@@ -2,6 +2,15 @@
 
 A dynamic spotlight effect that follows your cursor, creating an engaging interactive experience on your webpage. The spotlight adjusts its size based on cursor position and interaction with feature elements.
 
+## Links
+
+- 🌐 [Live Demo](https://spotlighteffect.netlify.app/)
+- 💻 [GitHub Repository](https://github.com/eslamelezaby98/spotlight_effect)
+
+## Screenshot
+
+![Spotlight Effect Demo](./images/screenshot.png)
+
 ## Features
 
 - 🌟 Smooth cursor-following spotlight
