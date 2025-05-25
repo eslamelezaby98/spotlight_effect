@@ -9,7 +9,7 @@ A dynamic spotlight effect that follows your cursor, creating an engaging intera
 
 ## Screenshot
 
-![Spotlight Effect Demo](./images/screenshot.png)
+![Image](https://github.com/user-attachments/assets/2176c682-9948-4046-9b03-c9e2b46b1cc3)
 
 ## Features
 
